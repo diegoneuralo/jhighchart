@@ -1,4 +1,5 @@
 jhighchart
+<<<<<<< HEAD
 ========================
 
 What is it?
@@ -90,3 +91,6 @@ If you want to debug the source code or look at the Javadocs of any library in t
         mvn dependency:sources
         mvn dependency:resolve -Dclassifier=javadoc
 
+=======
+==========
+>>>>>>> 62e3d9340653b220015a571ec89d19295c40a4c9

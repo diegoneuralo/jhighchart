@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 .classpath
 .project
@@ -8,3 +9,20 @@ target
 MANIFEST.MF
 .idea
 *.iml
+=======
+jboss/server/all/deploy/project.ext
+jboss/server/default/deploy/project.ext
+jboss/server/minimal/deploy/project.ext
+jboss/server/all/log/*.log
+jboss/server/all/tmp/**/*
+jboss/server/all/data/**/*
+jboss/server/all/work/**/*
+jboss/server/default/log/*.log
+jboss/server/default/tmp/**/*
+jboss/server/default/data/**/*
+jboss/server/default/work/**/*
+jboss/server/minimal/log/*.log
+jboss/server/minimal/tmp/**/*
+jboss/server/minimal/data/**/*
+jboss/server/minimal/work/**/*
+>>>>>>> 62e3d9340653b220015a571ec89d19295c40a4c9
